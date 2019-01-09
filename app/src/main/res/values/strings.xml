@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Start</string>
+    <string name="zero">0</string>
+    <string name="saveToFileLabel">save to File</string>
+    <string name="btnStop">Stop</string>
+    <string name="wskazowka_imie">imie</string>
+
+</resources>
